@@ -1,0 +1,43 @@
+[{
+ 
+    "id": 1,
+"item":"Skate",
+"precio": 14000,
+"imgURL":"https://d3ugyf2ht6aenh.cloudfront.net/stores/069/005/products/skpy-graffiti-21-21c82310d4fbdfe63116224827873134-1024-1024.jpg"
+
+},
+
+
+{
+    "id":2,
+    "item":"Bicicleta",
+    "precio": 20000,
+    "imgURL":"https://borabikes.com.ar/55772-large_default/bicicleta-ninos-rodado-24-con-cambios-trek-precaliber-24-8vel.jpg"
+
+    },
+
+
+    {
+        "id":3,
+        "item":"Monopatin",
+        "precio": 13000,
+        "imgURL":"https://d3ugyf2ht6aenh.cloudfront.net/stores/052/201/products/rod02005-monopatin-latapy-5036-negro1-93007473c0527a704f15966378174719-1024-1024.jpeg"
+        
+        },
+
+
+        {
+            "id":4,
+            "item":"Rollers",
+            "precio": 12000,
+            "imgURL":"https://biciurbana.com.ar/6855/rollers-boissy-extensibles.jpg"
+
+            }
+
+
+
+
+
+
+
+]
